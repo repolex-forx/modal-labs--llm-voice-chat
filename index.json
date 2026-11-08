@@ -1,0 +1,11 @@
+{
+  "org": "modal-labs",
+  "repo": "llm-voice-chat",
+  "versions": [
+    {
+      "commit": "43f7532979084eba1b3d24408921b3511bcc85b2",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:44:52.583715+00:00"
+    }
+  ]
+}
